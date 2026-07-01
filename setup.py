@@ -28,7 +28,7 @@ setup(
 	'keras==2.9.0', 
 	'matplotlib-base==3.5.2', 
 	'pandas==1.4.3',
-	'tqdm==4.64.0', 
+	'tqdm==4.66.3', 
 	'h5py==3.6.0', 
 	'obspy==1.3.0',
 	'jupyter==1.0.0'], 
